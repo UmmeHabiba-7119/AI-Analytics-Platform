@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.streamlit/
+.vscode/
+.idea/
+.DS_Store
+backend.zip
+llm.zip
+data/sales.csv
